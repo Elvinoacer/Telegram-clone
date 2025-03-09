@@ -39,7 +39,7 @@ const SignIn = () => {
 	return (
 		<div className='w-full'>
 			<p className='text-center text-muted-foreground text-sm'>
-				Telegram is a messaging app with a focus on speed and security, it’s super-fast, simple and free.
+				Telegram is a messaging app with a focus on speed and security, it&apos;s super-fast, simple and free.
 			</p>
 			<Form {...form}>
 				<form onSubmit={form.handleSubmit(onSubmit)} className='space-y-2'>

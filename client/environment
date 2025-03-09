@@ -1,0 +1,9 @@
+NEXT_PUBLIC_SERVER_URL=http://localhost:3030
+GITHUB_CLIENT_ID=Ov23ligmu1YjykejcLW9
+GITHUB_CLIENT_SECRET=64ce7bbd361c7f56e992f54a28585dccf6dd5df2
+GOOGLE_CLIENT_ID=1022852943024-04iseds93akdf0soscdabrpuo5q9fnvc.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+
+NEXT_PUBLIC_JWT_SECRET=ihavemillionsofdollars
+NEXTAUTH_SECRET="+ByKGrrnFf35v/NOVxZegfRkMoF/W4K5mqc9oSj0jg8=" # Added by `npx auth`. Read more: https://cli.authjs.dev
+MONGO_URI=mongodb+srv://elvin:Freedom2023@cluster0.doswp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
